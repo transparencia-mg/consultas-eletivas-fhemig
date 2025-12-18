@@ -2,7 +2,7 @@ name: consultas-eletivas
 owner_org: fundacao-hospitalar-do-estado-de-minas-gerais-fhemig
 profile: data-package
 resources:
-  - description: Dados de consultas eletivas por unidade FHEMIG a partir de 2025.
+  - description: Dados de consultas eletivas por unidade FHEMIG divididos por especialidade médica.
     dialect:
       delimiter: ;
     encoding: utf-8-sig
@@ -29,5 +29,5 @@ resources:
           type: integer
           description: "Consultas eletivas e atendimentos realizados por outros profissionais de nível superior: Apresenta o atendimento de um paciente, por médico, para fins de exame, diagnóstico, tratamento e orientação com marcação prévia de horário e atendimento realizado por outros profissionais de nível superior incluem-se, principalmente, os procedimentos de enfermagem, fisioterapêuticos, psicológicos, odontológicos e de assistência social, entre outros necessários ao cuidado integral dos pacientes."
     scheme: file
-    title: Consultas eletivas a partir de 2025
+    title: Consultas eletivas por unidade FHEMIG
 title: Consultas Eletivas - FHEMIG
