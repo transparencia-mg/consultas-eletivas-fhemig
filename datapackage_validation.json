@@ -1,11 +1,11 @@
 {
   "version": "4.16.6",
-  "time": 0.034,
+  "time": 0.035,
   "errors": [],
   "tasks": [
     {
       "resource": {
-        "description": "Dados de consultas eletivas por unidade FHEMIG a partir de 2025.",
+        "description": "Dados de consultas eletivas por unidade FHEMIG divididos por especialidade médica.",
         "dialect": {
           "delimiter": ";"
         },
@@ -45,7 +45,7 @@
           ]
         },
         "scheme": "file",
-        "title": "Consultas eletivas a partir de 2025",
+        "title": "Consultas eletivas por unidade FHEMIG",
         "stats": {
           "hash": "605aa293abedb536f938e0037dfc5b75",
           "bytes": 28053,
