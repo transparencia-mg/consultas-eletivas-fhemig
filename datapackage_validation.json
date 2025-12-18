@@ -1,6 +1,6 @@
 {
   "version": "4.16.6",
-  "time": 0.035,
+  "time": 0.034,
   "errors": [],
   "tasks": [
     {
@@ -47,13 +47,13 @@
         "scheme": "file",
         "title": "Consultas eletivas a partir de 2025",
         "stats": {
-          "hash": "5a93f1f9199817f47463c54959822713",
-          "bytes": 27289,
+          "hash": "605aa293abedb536f938e0037dfc5b75",
+          "bytes": 28053,
           "fields": 5,
-          "rows": 899
+          "rows": 923
         }
       },
-      "time": 0.026,
+      "time": 0.025,
       "scope": [
         "hash-count-error",
         "byte-count-error",
