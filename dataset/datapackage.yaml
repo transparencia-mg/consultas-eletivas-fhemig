@@ -30,4 +30,4 @@ resources:
           description: "Consultas eletivas e atendimentos realizados por outros profissionais de nível superior: Apresenta o atendimento de um paciente, por médico, para fins de exame, diagnóstico, tratamento e orientação com marcação prévia de horário e atendimento realizado por outros profissionais de nível superior incluem-se, principalmente, os procedimentos de enfermagem, fisioterapêuticos, psicológicos, odontológicos e de assistência social, entre outros necessários ao cuidado integral dos pacientes."
     scheme: file
     title: Consultas eletivas por unidade FHEMIG
-title: Consultas Eletivas - FHEMIG
+title: Consultas Eletivas
