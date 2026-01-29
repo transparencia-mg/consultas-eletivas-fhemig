@@ -1,4 +1,18 @@
 ﻿unidade;ano;mes;especialidade;consultas_eletivas
+CHPB;2024;6;Psicologia;4
+CHPB;2024;6;Psiquiatria;67
+CHPB;2024;7;Psicologia;77
+CHPB;2024;7;Psiquiatria;500
+CHPB;2024;8;Psicologia;64
+CHPB;2024;8;Psiquiatria;625
+CHPB;2024;9;Psicologia;45
+CHPB;2024;9;Psiquiatria;475
+CHPB;2024;10;Psicologia;59
+CHPB;2024;10;Psiquiatria;677
+CHPB;2024;11;Psicologia;55
+CHPB;2024;11;Psiquiatria;490
+CHPB;2024;12;Psicologia;61
+CHPB;2024;12;Psiquiatria;468
 CHPB;2025;1;Psicologia;28
 CHPB;2025;1;Psiquiatria;442
 CHPB;2025;2;Psicologia;53
@@ -21,6 +35,120 @@ CHPB;2025;10;Psicologia;8
 CHPB;2025;10;Psiquiatria;675
 CHPB;2025;11;Psicologia;22
 CHPB;2025;11;Psiquiatria;504
+CHPB;2025;12;Psicologia;15
+CHPB;2025;12;Psiquiatria;430
+CSSFE;2023;12;Angiologia;16
+CSSFE;2023;12;Dermatologia;95
+CSSFE;2023;12;Enfermagem;133
+CSSFE;2023;12;Fisioterapia;3
+CSSFE;2023;12;Ginecologia e Obstetrícia;17
+CSSFE;2023;12;Oftamologia;95
+CSSFE;2023;12;Psiquiatria;18
+CSSFE;2023;12;Serviço Social;3
+CSSFE;2024;1;Angiologia;36
+CSSFE;2024;1;Enfermagem;268
+CSSFE;2024;1;Oftamologia;131
+CSSFE;2024;1;Psicologia;5
+CSSFE;2024;1;Psiquiatria;45
+CSSFE;2024;2;Angiologia;38
+CSSFE;2024;2;Dermatologia;238
+CSSFE;2024;2;Enfermagem;223
+CSSFE;2024;2;Fisioterapia;8
+CSSFE;2024;2;Ginecologia e Obstetrícia;34
+CSSFE;2024;2;Oftamologia;118
+CSSFE;2024;2;Psicologia;10
+CSSFE;2024;2;Psiquiatria;44
+CSSFE;2024;2;Serviço Social;9
+CSSFE;2024;3;Dermatologia;343
+CSSFE;2024;3;Enfermagem;271
+CSSFE;2024;3;Fisioterapia;7
+CSSFE;2024;3;Ginecologia e Obstetrícia;44
+CSSFE;2024;3;Oftamologia;104
+CSSFE;2024;3;Psicologia;16
+CSSFE;2024;3;Psiquiatria;45
+CSSFE;2024;3;Serviço Social;3
+CSSFE;2024;4;Angiologia;39
+CSSFE;2024;4;Dermatologia;289
+CSSFE;2024;4;Enfermagem;382
+CSSFE;2024;4;Fisioterapia;6
+CSSFE;2024;4;Ginecologia e Obstetrícia;32
+CSSFE;2024;4;Oftamologia;135
+CSSFE;2024;4;Psicologia;11
+CSSFE;2024;4;Psiquiatria;50
+CSSFE;2024;4;Serviço Social;12
+CSSFE;2024;5;Angiologia;30
+CSSFE;2024;5;Dermatologia;211
+CSSFE;2024;5;Enfermagem;343
+CSSFE;2024;5;Ginecologia e Obstetrícia;48
+CSSFE;2024;5;Oftamologia;119
+CSSFE;2024;5;Psicologia;11
+CSSFE;2024;5;Psiquiatria;46
+CSSFE;2024;5;Serviço Social;10
+CSSFE;2024;6;Angiologia;31
+CSSFE;2024;6;Dermatologia;240
+CSSFE;2024;6;Enfermagem;318
+CSSFE;2024;6;Fisioterapia;7
+CSSFE;2024;6;Ginecologia e Obstetrícia;55
+CSSFE;2024;6;Oftamologia;106
+CSSFE;2024;6;Psicologia;14
+CSSFE;2024;6;Psiquiatria;52
+CSSFE;2024;6;Serviço Social;9
+CSSFE;2024;7;Angiologia;28
+CSSFE;2024;7;Dermatologia;376
+CSSFE;2024;7;Enfermagem;380
+CSSFE;2024;7;Fisioterapia;5
+CSSFE;2024;7;Ginecologia e Obstetrícia;62
+CSSFE;2024;7;Oftamologia;115
+CSSFE;2024;7;Psicologia;16
+CSSFE;2024;7;Psiquiatria;16
+CSSFE;2024;7;Serviço Social;15
+CSSFE;2024;8;Angiologia;33
+CSSFE;2024;8;Dermatologia;304
+CSSFE;2024;8;Enfermagem;454
+CSSFE;2024;8;Fisioterapia;10
+CSSFE;2024;8;Ginecologia e Obstetrícia;55
+CSSFE;2024;8;Oftamologia;123
+CSSFE;2024;8;Psicologia;18
+CSSFE;2024;8;Serviço Social;11
+CSSFE;2024;9;Angiologia;25
+CSSFE;2024;9;Dermatologia;264
+CSSFE;2024;9;Enfermagem;361
+CSSFE;2024;9;Fisioterapia;8
+CSSFE;2024;9;Ginecologia e Obstetrícia;59
+CSSFE;2024;9;Oftamologia;89
+CSSFE;2024;9;Psicologia;20
+CSSFE;2024;9;Psiquiatria;11
+CSSFE;2024;9;Serviço Social;10
+CSSFE;2024;10;Angiologia;37
+CSSFE;2024;10;Dermatologia;236
+CSSFE;2024;10;Enfermagem;458
+CSSFE;2024;10;Fisioterapia;6
+CSSFE;2024;10;Ginecologia e Obstetrícia;62
+CSSFE;2024;10;Oftamologia;76
+CSSFE;2024;10;Ortopedia e Traumatologia;69
+CSSFE;2024;10;Psicologia;14
+CSSFE;2024;10;Psiquiatria;35
+CSSFE;2024;10;Serviço Social;5
+CSSFE;2024;11;Angiologia;20
+CSSFE;2024;11;Dermatologia;188
+CSSFE;2024;11;Enfermagem;315
+CSSFE;2024;11;Fisioterapia;6
+CSSFE;2024;11;Ginecologia e Obstetrícia;61
+CSSFE;2024;11;Oftamologia;117
+CSSFE;2024;11;Ortopedia e Traumatologia;113
+CSSFE;2024;11;Psicologia;12
+CSSFE;2024;11;Psiquiatria;48
+CSSFE;2024;11;Serviço Social;4
+CSSFE;2024;12;Angiologia;32
+CSSFE;2024;12;Dermatologia;186
+CSSFE;2024;12;Enfermagem;235
+CSSFE;2024;12;Fisioterapia;6
+CSSFE;2024;12;Ginecologia e Obstetrícia;29
+CSSFE;2024;12;Oftamologia;101
+CSSFE;2024;12;Ortopedia e Traumatologia;90
+CSSFE;2024;12;Psicologia;10
+CSSFE;2024;12;Psiquiatria;18
+CSSFE;2024;12;Serviço Social;11
 CSSFE;2025;1;Angiologia;38
 CSSFE;2025;1;Dermatologia;35
 CSSFE;2025;1;Enfermagem;305
@@ -124,6 +252,130 @@ CSSFE;2025;11;Oftamologia;105
 CSSFE;2025;11;Ortopedia e Traumatologia;114
 CSSFE;2025;11;Pneumologia;24
 CSSFE;2025;11;Psicologia;16
+CSSFE;2025;12;Angiologia;68
+CSSFE;2025;12;Enfermagem;527
+CSSFE;2025;12;Fisioterapia;63
+CSSFE;2025;12;Ginecologia e Obstetrícia;27
+CSSFE;2025;12;Oftamologia;123
+CSSFE;2025;12;Ortopedia e Traumatologia;86
+CSSFE;2025;12;Pneumologia;17
+CSSFE;2025;12;Psicologia;13
+CSSFE;2025;12;Serviço Social;2
+CSSI;2023;9;Dermatologia;8
+CSSI;2023;9;Fisioterapia;27
+CSSI;2023;9;Psicologia;22
+CSSI;2023;9;Serviço Social;35
+CSSI;2023;10;Cardiologia;53
+CSSI;2023;10;Dermatologia;50
+CSSI;2023;10;Fisioterapia;211
+CSSI;2023;10;Nutrição;1
+CSSI;2023;10;Oftamologia;66
+CSSI;2023;10;Psicologia;175
+CSSI;2023;10;Serviço Social;211
+CSSI;2023;11;Cardiologia;41
+CSSI;2023;11;Dermatologia;58
+CSSI;2023;11;Fisioterapia;222
+CSSI;2023;11;Fonoaudiologia;59
+CSSI;2023;11;Nutrição;3
+CSSI;2023;11;Oftamologia;54
+CSSI;2023;11;Psicologia;103
+CSSI;2023;11;Serviço Social;172
+CSSI;2023;12;Cardiologia;23
+CSSI;2023;12;Dermatologia;57
+CSSI;2023;12;Fisioterapia;26
+CSSI;2023;12;Fonoaudiologia;15
+CSSI;2023;12;Oftamologia;38
+CSSI;2023;12;Psicologia;51
+CSSI;2023;12;Serviço Social;71
+CSSI;2024;1;Cardiologia;33
+CSSI;2024;1;Dermatologia;22
+CSSI;2024;1;Fisioterapia;4
+CSSI;2024;1;Psicologia;21
+CSSI;2024;1;Serviço Social;18
+CSSI;2024;2;Cardiologia;38
+CSSI;2024;2;Dermatologia;18
+CSSI;2024;2;Enfermagem;34
+CSSI;2024;2;Fisioterapia;2
+CSSI;2024;2;Nutrição;2
+CSSI;2024;2;Oftamologia;53
+CSSI;2024;2;Psicologia;54
+CSSI;2024;2;Serviço Social;20
+CSSI;2024;3;Cardiologia;34
+CSSI;2024;3;Dermatologia;28
+CSSI;2024;3;Enfermagem;19
+CSSI;2024;3;Fisioterapia;2
+CSSI;2024;3;Nutrição;1
+CSSI;2024;3;Oftamologia;40
+CSSI;2024;3;Psicologia;40
+CSSI;2024;3;Serviço Social;19
+CSSI;2024;4;Cardiologia;29
+CSSI;2024;4;Fisioterapia;1
+CSSI;2024;4;Oftamologia;42
+CSSI;2024;4;Psicologia;18
+CSSI;2024;4;Serviço Social;80
+CSSI;2024;5;Cardiologia;27
+CSSI;2024;5;Clínica Médica;20
+CSSI;2024;5;Fonoaudiologia;3
+CSSI;2024;5;Oftamologia;51
+CSSI;2024;5;Psicologia;35
+CSSI;2024;5;Serviço Social;24
+CSSI;2024;6;Cardiologia;17
+CSSI;2024;6;Clínica Médica;49
+CSSI;2024;6;Fisioterapia;1
+CSSI;2024;6;Fonoaudiologia;3
+CSSI;2024;6;Nutrição;1
+CSSI;2024;6;Oftamologia;34
+CSSI;2024;6;Psicologia;11
+CSSI;2024;6;Serviço Social;36
+CSSI;2024;7;Cardiologia;43
+CSSI;2024;7;Clínica Médica;67
+CSSI;2024;7;Fisioterapia;1
+CSSI;2024;7;Fonoaudiologia;5
+CSSI;2024;7;Nutrição;3
+CSSI;2024;7;Oftamologia;55
+CSSI;2024;7;Psicologia;36
+CSSI;2024;7;Serviço Social;21
+CSSI;2024;8;Cardiologia;35
+CSSI;2024;8;Clínica Médica;66
+CSSI;2024;8;Fisioterapia;1
+CSSI;2024;8;Fonoaudiologia;8
+CSSI;2024;8;Nutrição;3
+CSSI;2024;8;Oftamologia;69
+CSSI;2024;8;Psicologia;57
+CSSI;2024;8;Serviço Social;29
+CSSI;2024;9;Cardiologia;38
+CSSI;2024;9;Clínica Médica;36
+CSSI;2024;9;Fisioterapia;2
+CSSI;2024;9;Fonoaudiologia;2
+CSSI;2024;9;Nutrição;1
+CSSI;2024;9;Oftamologia;33
+CSSI;2024;9;Psicologia;42
+CSSI;2024;9;Serviço Social;53
+CSSI;2024;10;Cardiologia;32
+CSSI;2024;10;Clínica Médica;74
+CSSI;2024;10;Fisioterapia;4
+CSSI;2024;10;Fonoaudiologia;6
+CSSI;2024;10;Nutrição;4
+CSSI;2024;10;Oftamologia;79
+CSSI;2024;10;Psicologia;26
+CSSI;2024;10;Serviço Social;43
+CSSI;2024;11;Cardiologia;30
+CSSI;2024;11;Clínica Médica;66
+CSSI;2024;11;Enfermagem;14
+CSSI;2024;11;Fisioterapia;5
+CSSI;2024;11;Fonoaudiologia;7
+CSSI;2024;11;Nutrição;10
+CSSI;2024;11;Oftamologia;22
+CSSI;2024;11;Psicologia;13
+CSSI;2024;11;Serviço Social;28
+CSSI;2024;12;Cardiologia;42
+CSSI;2024;12;Clínica Médica;51
+CSSI;2024;12;Fisioterapia;9
+CSSI;2024;12;Fonoaudiologia;1
+CSSI;2024;12;Nutrição;8
+CSSI;2024;12;Oftamologia;38
+CSSI;2024;12;Psicologia;9
+CSSI;2024;12;Serviço Social;39
 CSSI;2025;1;Cardiologia;39
 CSSI;2025;1;Clínica Médica;74
 CSSI;2025;1;Fonoaudiologia;2
@@ -204,6 +456,14 @@ CSSI;2025;11;Oftamologia;60
 CSSI;2025;11;Psicologia;12
 CSSI;2025;11;Serviço Social;6
 CSSI;2025;11;Terapia Ocupacional;3
+CSSI;2025;12;Clínica Médica;72
+CSSI;2025;12;Fisioterapia;21
+CSSI;2025;12;Fonoaudiologia;6
+CSSI;2025;12;Nutrição;5
+CSSI;2025;12;Oftamologia;15
+CSSI;2025;12;Psicologia;16
+CSSI;2025;12;Serviço Social;37
+CSSI;2025;12;Terapia Ocupacional;6
 HAC;2025;10;Cardiologia;101
 HAC;2025;10;Cirurgia de Cabeça e Pescoço;127
 HAC;2025;10;Cirurgia Geral;88
@@ -253,8 +513,38 @@ HAC;2025;11;Oncologia Clínica;1422
 HAC;2025;11;Psicólogo;79
 HAC;2025;11;Serviço Social;96
 HAC;2025;11;Urologia;212
+HAC;2025;12;Cardiologia;242
+HAC;2025;12;Cirurgia de Cabeça e Pescoço;244
+HAC;2025;12;Cirurgia Geral;187
+HAC;2025;12;Cirurgia Plástica;21
+HAC;2025;12;Cirurgia Torácica;27
+HAC;2025;12;Cirurgia Vascular;13
+HAC;2025;12;Coloproctologia;76
+HAC;2025;12;Dermatologia;105
+HAC;2025;12;Endocrinologia e Metabologia;63
+HAC;2025;12;Endoscopia;12
+HAC;2025;12;Enfermagem;215
+HAC;2025;12;Enfermeiro Paliativista;4
+HAC;2025;12;Fisioterapia;7
+HAC;2025;12;Fonoaudilogia;11
+HAC;2025;12;Fonoaudiologia;11
+HAC;2025;12;Ginecologia e Obstetrícia;96
+HAC;2025;12;Hematologia;121
+HAC;2025;12;Mastologia;383
+HAC;2025;12;Médico Paliativista;3
+HAC;2025;12;Neurologia;23
+HAC;2025;12;Nutrição;5
+HAC;2025;12;Odontologia;14
+HAC;2025;12;Oncologia Clínica;1457
+HAC;2025;12;Psicólogo;50
+HAC;2025;12;Serviço Social;78
+HAC;2025;12;Urologia;192
+HCM;2025;11;Cirurgia da Mão;11
 HCM;2025;11;Cirurgia Geral;12
-HCM;2025;11;Fonoaudiologia;22
+HCM;2025;11;Fonoaudiologia;11
+HCM;2025;12;Cirurgia da Mão;33
+HCM;2025;12;Cirurgia Geral;138
+HCM;2025;12;Fonoaudiologia;21
 HEM;2025;6;Cirurgia Plástica;13
 HEM;2025;6;Coloproctologia;7
 HEM;2025;6;Dermatologia;572
@@ -309,7 +599,7 @@ HEM;2025;8;Infectologia Adulto;1006
 HEM;2025;8;Nefrologia;58
 HEM;2025;8;Neurologia;12
 HEM;2025;8;Odontologia;6
-HEM;2025;8;Oftamologia;24
+HEM;2025;8;Oftamologia;25
 HEM;2025;8;Psicologia;102
 HEM;2025;8;Psiquiatria;38
 HEM;2025;8;Reumatologia;54
@@ -327,7 +617,7 @@ HEM;2025;9;Fisioterapia;129
 HEM;2025;9;Gastroenterologia;28
 HEM;2025;9;Ginecologia e Obstetrícia;52
 HEM;2025;9;Hansenologia;310
-HEM;2025;9;Infectologia Adulto;1112
+HEM;2025;9;Infectologia Adulto;1116
 HEM;2025;9;Nefrologia;26
 HEM;2025;9;Neurologia;28
 HEM;2025;9;Odontologia;6
@@ -350,7 +640,7 @@ HEM;2025;10;Fisioterapia;172
 HEM;2025;10;Gastroenterologia;26
 HEM;2025;10;Ginecologia e Obstetrícia;79
 HEM;2025;10;Hansenologia;347
-HEM;2025;10;Infectologia Adulto;1099
+HEM;2025;10;Infectologia Adulto;1101
 HEM;2025;10;Nefrologia;69
 HEM;2025;10;Neurologia;33
 HEM;2025;10;Odontologia;1
@@ -373,7 +663,7 @@ HEM;2025;11;Fisioterapia;90
 HEM;2025;11;Gastroenterologia;35
 HEM;2025;11;Ginecologia e Obstetrícia;54
 HEM;2025;11;Hansenologia;273
-HEM;2025;11;Infectologia Adulto;1020
+HEM;2025;11;Infectologia Adulto;1023
 HEM;2025;11;Nefrologia;41
 HEM;2025;11;Neurologia;10
 HEM;2025;11;Odontologia;6
@@ -383,8 +673,78 @@ HEM;2025;11;Psicologia;97
 HEM;2025;11;Psiquiatria;75
 HEM;2025;11;Reumatologia;59
 HEM;2025;11;Serviço Social;252
-HEM;2025;11;Terapia Ocupacional;17
+HEM;2025;11;Terapia Ocupacional;18
 HEM;2025;11;Urologia;16
+HEM;2025;12;Anestesiologia;6
+HEM;2025;12;Cirurgia Geral;5
+HEM;2025;12;Cirurgia Plástica;49
+HEM;2025;12;Coloproctologia;18
+HEM;2025;12;Dermatologia;862
+HEM;2025;12;Endocrinologia e Metabologia;103
+HEM;2025;12;Enfermagem;621
+HEM;2025;12;Fisioterapia;95
+HEM;2025;12;Gastroenterologia;20
+HEM;2025;12;Ginecologia e Obstetrícia;59
+HEM;2025;12;Hansenologia;248
+HEM;2025;12;Infectologia Adulto;1092
+HEM;2025;12;Nefrologia;52
+HEM;2025;12;Neurologia;25
+HEM;2025;12;Odontologia;11
+HEM;2025;12;Oftamologia;29
+HEM;2025;12;Ortopedia e Traumatologia;20
+HEM;2025;12;Psicologia;80
+HEM;2025;12;Psiquiatria;79
+HEM;2025;12;Reumatologia;58
+HEM;2025;12;Serviço Social;299
+HEM;2025;12;Terapia Ocupacional;18
+HEM;2025;12;Urologia;13
+HRBJA;2024;6;Bucomaxilofacial;3
+HRBJA;2024;6;Cirurgia Cardiovascular;7
+HRBJA;2024;6;Cirurgia Geral;4
+HRBJA;2024;6;Neurologia;19
+HRBJA;2024;6;Ortopedia e Traumatologia;26
+HRBJA;2024;7;Bucomaxilofacial;17
+HRBJA;2024;7;Cirurgia Cardiovascular;39
+HRBJA;2024;7;Cirurgia Geral;22
+HRBJA;2024;7;Cirurgia Plástica;20
+HRBJA;2024;7;Clínica Médica;1
+HRBJA;2024;7;Neurologia;40
+HRBJA;2024;7;Ortopedia e Traumatologia;130
+HRBJA;2024;8;Bucomaxilofacial;21
+HRBJA;2024;8;Cirurgia Cardiovascular;36
+HRBJA;2024;8;Cirurgia Geral;28
+HRBJA;2024;8;Cirurgia Plástica;19
+HRBJA;2024;8;Clínica Médica;1
+HRBJA;2024;8;Neurologia;45
+HRBJA;2024;8;Ortopedia e Traumatologia;151
+HRBJA;2024;9;Bucomaxilofacial;22
+HRBJA;2024;9;Cirurgia Cardiovascular;28
+HRBJA;2024;9;Cirurgia Geral;20
+HRBJA;2024;9;Cirurgia Plástica;19
+HRBJA;2024;9;Clínica Médica;2
+HRBJA;2024;9;Neurologia;56
+HRBJA;2024;9;Ortopedia e Traumatologia;142
+HRBJA;2024;10;Bucomaxilofacial;22
+HRBJA;2024;10;Cirurgia Cardiovascular;33
+HRBJA;2024;10;Cirurgia Geral;30
+HRBJA;2024;10;Cirurgia Plástica;28
+HRBJA;2024;10;Clínica Médica;4
+HRBJA;2024;10;Neurologia;51
+HRBJA;2024;10;Ortopedia e Traumatologia;158
+HRBJA;2024;11;Bucomaxilofacial;24
+HRBJA;2024;11;Cirurgia Cardiovascular;28
+HRBJA;2024;11;Cirurgia Geral;30
+HRBJA;2024;11;Cirurgia Plástica;15
+HRBJA;2024;11;Clínica Médica;5
+HRBJA;2024;11;Neurologia;49
+HRBJA;2024;11;Ortopedia e Traumatologia;189
+HRBJA;2024;12;Bucomaxilofacial;24
+HRBJA;2024;12;Cirurgia Cardiovascular;24
+HRBJA;2024;12;Cirurgia Geral;34
+HRBJA;2024;12;Cirurgia Plástica;20
+HRBJA;2024;12;Clínica Médica;6
+HRBJA;2024;12;Neurologia;59
+HRBJA;2024;12;Ortopedia e Traumatologia;185
 HRBJA;2025;1;Bucomaxilofacial;41
 HRBJA;2025;1;Cirurgia Cardiovascular;29
 HRBJA;2025;1;Cirurgia Geral;29
@@ -460,6 +820,62 @@ HRBJA;2025;11;Cirurgia Geral;25
 HRBJA;2025;11;Cirurgia Plástica;11
 HRBJA;2025;11;Neurologia;57
 HRBJA;2025;11;Ortopedia e Traumatologia;204
+HRBJA;2025;12;Bucomaxilofacial;28
+HRBJA;2025;12;Cirurgia Cardiovascular;23
+HRBJA;2025;12;Cirurgia Geral;23
+HRBJA;2025;12;Cirurgia Plástica;18
+HRBJA;2025;12;Cirurgia Vascular;61
+HRBJA;2025;12;Clínica Médica;3
+HRBJA;2025;12;Neurocirurgia;7
+HRBJA;2025;12;Neurologia;47
+HRBJA;2025;12;Ortopedia e Traumatologia;247
+HRJP;2024;11;Angiologia;10
+HRJP;2024;11;Cardiologia;74
+HRJP;2024;11;Cirurgia da Mão;2
+HRJP;2024;11;Cirurgia Geral;55
+HRJP;2024;11;Cirurgia Plástica;4
+HRJP;2024;11;Cirurgia Vascular;6
+HRJP;2024;11;Coloproctologia;52
+HRJP;2024;11;Endocrinologia e Metabologia;61
+HRJP;2024;11;Enfermagem;40
+HRJP;2024;11;Fisioterapia;143
+HRJP;2024;11;Fonoaudiologia;58
+HRJP;2024;11;Ginecologia e Obstetrícia;171
+HRJP;2024;11;Mastologia;40
+HRJP;2024;11;Neurocirurgia;15
+HRJP;2024;11;Neurologia;23
+HRJP;2024;11;Neurologia Infantil;28
+HRJP;2024;11;Ortopedia e Traumatologia;293
+HRJP;2024;11;Otorrinolaringologia;14
+HRJP;2024;11;Pediatria;51
+HRJP;2024;11;Pneumologia;7
+HRJP;2024;11;Psicologia;74
+HRJP;2024;11;Terapia Ocupacional;37
+HRJP;2024;11;Urologia;221
+HRJP;2024;12;Angiologia;8
+HRJP;2024;12;Cardiologia;93
+HRJP;2024;12;Cirurgia da Mão;43
+HRJP;2024;12;Cirurgia Geral;65
+HRJP;2024;12;Cirurgia Plástica;8
+HRJP;2024;12;Cirurgia Vascular;4
+HRJP;2024;12;Coloproctologia;51
+HRJP;2024;12;Dermatologia;71
+HRJP;2024;12;Endocrinologia e Metabologia;57
+HRJP;2024;12;Enfermagem;6
+HRJP;2024;12;Fisioterapia;203
+HRJP;2024;12;Fonoaudiologia;54
+HRJP;2024;12;Ginecologia e Obstetrícia;103
+HRJP;2024;12;Mastologia;1
+HRJP;2024;12;Neurocirurgia;23
+HRJP;2024;12;Neurologia;36
+HRJP;2024;12;Neurologia Infantil;33
+HRJP;2024;12;Ortopedia e Traumatologia;291
+HRJP;2024;12;Otorrinolaringologia;14
+HRJP;2024;12;Pediatria;56
+HRJP;2024;12;Pneumologia;4
+HRJP;2024;12;Psicologia;89
+HRJP;2024;12;Terapia Ocupacional;67
+HRJP;2024;12;Urologia;218
 HRJP;2025;1;Angiologia;11
 HRJP;2025;1;Cardiologia;58
 HRJP;2025;1;Cirurgia da Mão;1
@@ -697,7 +1113,7 @@ HRJP;2025;11;Angiologia;7
 HRJP;2025;11;Cardiologia;136
 HRJP;2025;11;Cirurgia Geral;139
 HRJP;2025;11;Cirurgia Plástica;13
-HRJP;2025;11;Cirurgia Vascular;45
+HRJP;2025;11;Cirurgia Vascular;46
 HRJP;2025;11;Coloproctologia;49
 HRJP;2025;11;Dermatologia;59
 HRJP;2025;11;Endocrinologia e Metabologia;100
@@ -714,6 +1130,61 @@ HRJP;2025;11;Pediatria;58
 HRJP;2025;11;Pneumologia;3
 HRJP;2025;11;Psicologia;177
 HRJP;2025;11;Urologia;228
+HRJP;2025;12;Anestesiologia;29
+HRJP;2025;12;Angiologia;2
+HRJP;2025;12;Cardiologia;110
+HRJP;2025;12;Cirurgia Geral;133
+HRJP;2025;12;Cirurgia Plástica;11
+HRJP;2025;12;Cirurgia Vascular;39
+HRJP;2025;12;Coloproctologia;37
+HRJP;2025;12;Dermatologia;60
+HRJP;2025;12;Endocrinologia e Metabologia;130
+HRJP;2025;12;Enfermagem;17
+HRJP;2025;12;Fisioterapia;271
+HRJP;2025;12;Fonoaudiologia;52
+HRJP;2025;12;Ginecologia e Obstetrícia;266
+HRJP;2025;12;Mastologia;54
+HRJP;2025;12;Neurocirurgia;16
+HRJP;2025;12;Neurologia Infantil;22
+HRJP;2025;12;Ortopedia e Traumatologia;239
+HRJP;2025;12;Otorrinolaringologia;27
+HRJP;2025;12;Pediatria;28
+HRJP;2025;12;Psicologia;147
+HRJP;2025;12;Urologia;191
+IRS;2023;8;Neurologia;13
+IRS;2023;8;Psiquiatria;278
+IRS;2023;9;Neurologia;22
+IRS;2023;9;Psiquiatria;252
+IRS;2023;10;Neurologia;12
+IRS;2023;10;Psiquiatria;283
+IRS;2023;11;Neurologia;13
+IRS;2023;11;Psiquiatria;296
+IRS;2023;12;Neurologia;9
+IRS;2023;12;Psiquiatria;205
+IRS;2024;1;Neurologia;17
+IRS;2024;1;Psiquiatria;266
+IRS;2024;2;Neurologia;13
+IRS;2024;2;Psiquiatria;213
+IRS;2024;3;Neurologia;11
+IRS;2024;3;Psiquiatria;209
+IRS;2024;4;Neurologia;14
+IRS;2024;4;Psiquiatria;359
+IRS;2024;5;Neurologia;16
+IRS;2024;5;Psiquiatria;296
+IRS;2024;6;Neurologia;15
+IRS;2024;6;Psiquiatria;319
+IRS;2024;7;Neurologia;17
+IRS;2024;7;Psiquiatria;283
+IRS;2024;8;Neurologia;15
+IRS;2024;8;Psiquiatria;301
+IRS;2024;9;Neurologia;13
+IRS;2024;9;Psiquiatria;338
+IRS;2024;10;Neurologia;15
+IRS;2024;10;Psiquiatria;407
+IRS;2024;11;Neurologia;13
+IRS;2024;11;Psiquiatria;327
+IRS;2024;12;Neurologia;8
+IRS;2024;12;Psiquiatria;268
 IRS;2025;1;Neurologia;12
 IRS;2025;1;Psiquiatria;318
 IRS;2025;2;Neurologia;13
@@ -736,6 +1207,370 @@ IRS;2025;10;Neurologia;17
 IRS;2025;10;Psiquiatria;343
 IRS;2025;11;Neurologia;13
 IRS;2025;11;Psiquiatria;262
+IRS;2025;12;Neurologia;10
+IRS;2025;12;Psiquiatria;188
+MOV;2023;4;Anestesiologia;2
+MOV;2023;4;Banco de Leite;94
+MOV;2023;4;Cardiologia;24
+MOV;2023;4;Enfermagem;12
+MOV;2023;4;Fisioterapia;29
+MOV;2023;4;Fonoaudilogia;4
+MOV;2023;4;Ginecologia e Obstetrícia;496
+MOV;2023;4;Mastologia;111
+MOV;2023;4;Nefrologia;3
+MOV;2023;4;Neurologia;14
+MOV;2023;4;Nutrição;3
+MOV;2023;4;Oftamologia;3
+MOV;2023;4;Pediatria;12
+MOV;2023;4;Psicologia;10
+MOV;2023;4;Psicólogo;8
+MOV;2023;4;Serviço Social;28
+MOV;2023;5;Anestesiologia;20
+MOV;2023;5;Banco de Leite;146
+MOV;2023;5;Cardiologia;74
+MOV;2023;5;Enfermagem;23
+MOV;2023;5;Fisioterapia;29
+MOV;2023;5;Fonoaudilogia;81
+MOV;2023;5;Ginecologia e Obstetrícia;915
+MOV;2023;5;Mastologia;127
+MOV;2023;5;Nefrologia;18
+MOV;2023;5;Neurologia;39
+MOV;2023;5;Nutrição;7
+MOV;2023;5;Oftamologia;11
+MOV;2023;5;Pediatria;40
+MOV;2023;5;Psicologia;40
+MOV;2023;5;Psicólogo;9
+MOV;2023;5;Psiquiatria;2
+MOV;2023;5;Serviço Social;74
+MOV;2023;6;Anestesiologia;24
+MOV;2023;6;Banco de Leite;156
+MOV;2023;6;Cardiologia;67
+MOV;2023;6;Enfermagem;14
+MOV;2023;6;Fisioterapia;28
+MOV;2023;6;Fonoaudilogia;75
+MOV;2023;6;Ginecologia e Obstetrícia;883
+MOV;2023;6;Mastologia;153
+MOV;2023;6;Nefrologia;16
+MOV;2023;6;Neurologia;27
+MOV;2023;6;Nutrição;7
+MOV;2023;6;Oftamologia;5
+MOV;2023;6;Pediatria;31
+MOV;2023;6;Psicologia;32
+MOV;2023;6;Psicólogo;6
+MOV;2023;6;Psiquiatria;7
+MOV;2023;6;Serviço Social;87
+MOV;2023;7;Anestesiologia;44
+MOV;2023;7;Banco de Leite;131
+MOV;2023;7;Cardiologia;97
+MOV;2023;7;Endocrinologia e Metabologia;38
+MOV;2023;7;Enfermagem;9
+MOV;2023;7;Fisioterapia;12
+MOV;2023;7;Fonoaudilogia;66
+MOV;2023;7;Ginecologia e Obstetrícia;835
+MOV;2023;7;Mastologia;167
+MOV;2023;7;Nefrologia;16
+MOV;2023;7;Neurologia;18
+MOV;2023;7;Oftamologia;14
+MOV;2023;7;Pediatria;30
+MOV;2023;7;Psicologia;45
+MOV;2023;7;Psicólogo;6
+MOV;2023;7;Psiquiatria;9
+MOV;2023;8;Anestesiologia;58
+MOV;2023;8;Banco de Leite;117
+MOV;2023;8;Cardiologia;128
+MOV;2023;8;Endocrinologia e Metabologia;42
+MOV;2023;8;Enfermagem;16
+MOV;2023;8;Fisioterapia;28
+MOV;2023;8;Fonoaudilogia;42
+MOV;2023;8;Ginecologia e Obstetrícia;1135
+MOV;2023;8;Mastologia;215
+MOV;2023;8;Nefrologia;14
+MOV;2023;8;Neurologia;35
+MOV;2023;8;Nutrição;6
+MOV;2023;8;Oftamologia;5
+MOV;2023;8;Pediatria;54
+MOV;2023;8;Psicologia;40
+MOV;2023;8;Psicólogo;11
+MOV;2023;8;Psiquiatria;20
+MOV;2023;8;Serviço Social;57
+MOV;2023;9;Anestesiologia;63
+MOV;2023;9;Banco de Leite;107
+MOV;2023;9;Cardiologia;121
+MOV;2023;9;Endocrinologia e Metabologia;71
+MOV;2023;9;Enfermagem;28
+MOV;2023;9;Fisioterapia;25
+MOV;2023;9;Fonoaudilogia;43
+MOV;2023;9;Ginecologia e Obstetrícia;920
+MOV;2023;9;Mastologia;94
+MOV;2023;9;Nefrologia;10
+MOV;2023;9;Neurologia;35
+MOV;2023;9;Nutrição;4
+MOV;2023;9;Oftamologia;6
+MOV;2023;9;Pediatria;35
+MOV;2023;9;Psicologia;32
+MOV;2023;9;Psicólogo;10
+MOV;2023;9;Psiquiatria;16
+MOV;2023;9;Serviço Social;101
+MOV;2023;10;Anestesiologia;67
+MOV;2023;10;Banco de Leite;101
+MOV;2023;10;Cardiologia;149
+MOV;2023;10;Endocrinologia e Metabologia;54
+MOV;2023;10;Enfermagem;13
+MOV;2023;10;Fisioterapia;30
+MOV;2023;10;Fonoaudilogia;38
+MOV;2023;10;Ginecologia e Obstetrícia;1002
+MOV;2023;10;Mastologia;160
+MOV;2023;10;Nefrologia;4
+MOV;2023;10;Neurologia;47
+MOV;2023;10;Nutrição;19
+MOV;2023;10;Oftamologia;9
+MOV;2023;10;Pediatria;43
+MOV;2023;10;Psicologia;49
+MOV;2023;10;Psicólogo;8
+MOV;2023;10;Psiquiatria;10
+MOV;2023;10;Serviço Social;74
+MOV;2023;11;Anestesiologia;44
+MOV;2023;11;Banco de Leite;114
+MOV;2023;11;Cardiologia;64
+MOV;2023;11;Endocrinologia e Metabologia;53
+MOV;2023;11;Enfermagem;13
+MOV;2023;11;Fisioterapia;33
+MOV;2023;11;Fonoaudilogia;43
+MOV;2023;11;Ginecologia e Obstetrícia;874
+MOV;2023;11;Mastologia;142
+MOV;2023;11;Nefrologia;13
+MOV;2023;11;Neurologia;17
+MOV;2023;11;Nutrição;36
+MOV;2023;11;Oftamologia;8
+MOV;2023;11;Pediatria;49
+MOV;2023;11;Psicologia;39
+MOV;2023;11;Serviço Social;23
+MOV;2023;12;Anestesiologia;59
+MOV;2023;12;Banco de Leite;111
+MOV;2023;12;Cardiologia;109
+MOV;2023;12;Endocrinologia e Metabologia;11
+MOV;2023;12;Enfermagem;18
+MOV;2023;12;Fisioterapia;30
+MOV;2023;12;Fonoaudilogia;58
+MOV;2023;12;Ginecologia e Obstetrícia;939
+MOV;2023;12;Mastologia;130
+MOV;2023;12;Nefrologia;9
+MOV;2023;12;Neurologia;40
+MOV;2023;12;Nutrição;11
+MOV;2023;12;Oftamologia;3
+MOV;2023;12;Pediatria;50
+MOV;2023;12;Psicologia;68
+MOV;2023;12;Psicólogo;1
+MOV;2023;12;Serviço Social;69
+MOV;2024;1;Anestesiologia;50
+MOV;2024;1;Banco de Leite;172
+MOV;2024;1;Cardiologia;79
+MOV;2024;1;Endocrinologia e Metabologia;51
+MOV;2024;1;Enfermagem;7
+MOV;2024;1;Fisioterapia;16
+MOV;2024;1;Fonoaudilogia;41
+MOV;2024;1;Ginecologia e Obstetrícia;918
+MOV;2024;1;Mastologia;213
+MOV;2024;1;Neurologia;22
+MOV;2024;1;Nutrição;18
+MOV;2024;1;Oftamologia;14
+MOV;2024;1;Pediatria;36
+MOV;2024;1;Psicologia;54
+MOV;2024;1;Psicólogo;7
+MOV;2024;1;Serviço Social;26
+MOV;2024;2;Anestesiologia;41
+MOV;2024;2;Banco de Leite;116
+MOV;2024;2;Cardiologia;97
+MOV;2024;2;Endocrinologia e Metabologia;60
+MOV;2024;2;Enfermagem;8
+MOV;2024;2;Fisioterapia;28
+MOV;2024;2;Fonoaudilogia;30
+MOV;2024;2;Ginecologia e Obstetrícia;842
+MOV;2024;2;Mastologia;154
+MOV;2024;2;Nefrologia;12
+MOV;2024;2;Neurologia;22
+MOV;2024;2;Nutrição;26
+MOV;2024;2;Oftamologia;12
+MOV;2024;2;Pediatria;39
+MOV;2024;2;Psicologia;35
+MOV;2024;2;Psicólogo;2
+MOV;2024;2;Serviço Social;45
+MOV;2024;3;Anestesiologia;49
+MOV;2024;3;Banco de Leite;133
+MOV;2024;3;Cardiologia;94
+MOV;2024;3;Endocrinologia e Metabologia;43
+MOV;2024;3;Enfermagem;11
+MOV;2024;3;Fisioterapia;35
+MOV;2024;3;Fonoaudilogia;42
+MOV;2024;3;Ginecologia e Obstetrícia;879
+MOV;2024;3;Mastologia;137
+MOV;2024;3;Nefrologia;9
+MOV;2024;3;Neurologia;43
+MOV;2024;3;Nutrição;21
+MOV;2024;3;Oftamologia;18
+MOV;2024;3;Pediatria;43
+MOV;2024;3;Psicologia;52
+MOV;2024;3;Psicólogo;5
+MOV;2024;3;Serviço Social;53
+MOV;2024;4;Anestesiologia;74
+MOV;2024;4;Banco de Leite;209
+MOV;2024;4;Cardiologia;122
+MOV;2024;4;Endocrinologia e Metabologia;39
+MOV;2024;4;Enfermagem;15
+MOV;2024;4;Fisioterapia;23
+MOV;2024;4;Fonoaudilogia;30
+MOV;2024;4;Ginecologia e Obstetrícia;982
+MOV;2024;4;Mastologia;196
+MOV;2024;4;Nefrologia;8
+MOV;2024;4;Neurologia;39
+MOV;2024;4;Nutrição;42
+MOV;2024;4;Oftamologia;14
+MOV;2024;4;Pediatria;44
+MOV;2024;4;Psicologia;72
+MOV;2024;4;Psicólogo;4
+MOV;2024;4;Psiquiatria;7
+MOV;2024;4;Serviço Social;70
+MOV;2024;5;Anestesiologia;23
+MOV;2024;5;Banco de Leite;245
+MOV;2024;5;Cardiologia;106
+MOV;2024;5;Endocrinologia e Metabologia;57
+MOV;2024;5;Enfermagem;10
+MOV;2024;5;Fisioterapia;35
+MOV;2024;5;Fonoaudilogia;35
+MOV;2024;5;Ginecologia e Obstetrícia;922
+MOV;2024;5;Mastologia;131
+MOV;2024;5;Nefrologia;8
+MOV;2024;5;Neurologia;30
+MOV;2024;5;Nutrição;39
+MOV;2024;5;Oftamologia;10
+MOV;2024;5;Pediatria;57
+MOV;2024;5;Psicologia;27
+MOV;2024;5;Psicólogo;7
+MOV;2024;5;Psiquiatria;15
+MOV;2024;5;Serviço Social;74
+MOV;2024;6;Anestesiologia;67
+MOV;2024;6;Banco de Leite;327
+MOV;2024;6;Cardiologia;133
+MOV;2024;6;Endocrinologia e Metabologia;61
+MOV;2024;6;Enfermagem;20
+MOV;2024;6;Fisioterapia;47
+MOV;2024;6;Fonoaudilogia;24
+MOV;2024;6;Ginecologia e Obstetrícia;902
+MOV;2024;6;Mastologia;154
+MOV;2024;6;Nefrologia;11
+MOV;2024;6;Neurologia;27
+MOV;2024;6;Nutrição;47
+MOV;2024;6;Oftamologia;11
+MOV;2024;6;Pediatria;64
+MOV;2024;6;Psicologia;58
+MOV;2024;6;Psicólogo;13
+MOV;2024;6;Psiquiatria;17
+MOV;2024;6;Serviço Social;76
+MOV;2024;7;Anestesiologia;80
+MOV;2024;7;Banco de Leite;324
+MOV;2024;7;Cardiologia;133
+MOV;2024;7;Endocrinologia e Metabologia;74
+MOV;2024;7;Enfermagem;10
+MOV;2024;7;Fisioterapia;54
+MOV;2024;7;Fonoaudilogia;40
+MOV;2024;7;Ginecologia e Obstetrícia;1022
+MOV;2024;7;Mastologia;194
+MOV;2024;7;Nefrologia;9
+MOV;2024;7;Neurologia;33
+MOV;2024;7;Nutrição;30
+MOV;2024;7;Oftamologia;11
+MOV;2024;7;Pediatria;91
+MOV;2024;7;Psicologia;91
+MOV;2024;7;Psicólogo;4
+MOV;2024;7;Psiquiatria;5
+MOV;2024;7;Serviço Social;43
+MOV;2024;8;Anestesiologia;65
+MOV;2024;8;Banco de Leite;365
+MOV;2024;8;Cardiologia;139
+MOV;2024;8;Endocrinologia e Metabologia;75
+MOV;2024;8;Enfermagem;11
+MOV;2024;8;Fisioterapia;56
+MOV;2024;8;Fonoaudilogia;45
+MOV;2024;8;Ginecologia e Obstetrícia;956
+MOV;2024;8;Mastologia;183
+MOV;2024;8;Nefrologia;15
+MOV;2024;8;Neurologia;32
+MOV;2024;8;Nutrição;50
+MOV;2024;8;Oftamologia;3
+MOV;2024;8;Pediatria;59
+MOV;2024;8;Psicologia;53
+MOV;2024;8;Psicólogo;6
+MOV;2024;8;Psiquiatria;18
+MOV;2024;8;Serviço Social;49
+MOV;2024;9;Anestesiologia;100
+MOV;2024;9;Banco de Leite;396
+MOV;2024;9;Cardiologia;149
+MOV;2024;9;Endocrinologia e Metabologia;57
+MOV;2024;9;Fisioterapia;53
+MOV;2024;9;Fonoaudilogia;38
+MOV;2024;9;Ginecologia e Obstetrícia;1129
+MOV;2024;9;Mastologia;157
+MOV;2024;9;Nefrologia;13
+MOV;2024;9;Neurologia;39
+MOV;2024;9;Nutrição;54
+MOV;2024;9;Oftamologia;5
+MOV;2024;9;Pediatria;74
+MOV;2024;9;Psicologia;77
+MOV;2024;9;Psicólogo;2
+MOV;2024;9;Psiquiatria;25
+MOV;2024;9;Serviço Social;51
+MOV;2024;10;Anestesiologia;86
+MOV;2024;10;Banco de Leite;274
+MOV;2024;10;Cardiologia;130
+MOV;2024;10;Endocrinologia e Metabologia;7
+MOV;2024;10;Enfermagem;16
+MOV;2024;10;Fisioterapia;62
+MOV;2024;10;Fonoaudilogia;40
+MOV;2024;10;Ginecologia e Obstetrícia;1046
+MOV;2024;10;Mastologia;100
+MOV;2024;10;Nefrologia;8
+MOV;2024;10;Neurologia;40
+MOV;2024;10;Nutrição;50
+MOV;2024;10;Oftamologia;5
+MOV;2024;10;Pediatria;80
+MOV;2024;10;Psicologia;88
+MOV;2024;10;Psiquiatria;20
+MOV;2024;10;Serviço Social;14
+MOV;2024;11;Anestesiologia;58
+MOV;2024;11;Banco de Leite;290
+MOV;2024;11;Cardiologia;124
+MOV;2024;11;Endocrinologia e Metabologia;87
+MOV;2024;11;Enfermagem;15
+MOV;2024;11;Fisioterapia;46
+MOV;2024;11;Fonoaudilogia;43
+MOV;2024;11;Ginecologia e Obstetrícia;923
+MOV;2024;11;Mastologia;2
+MOV;2024;11;Nefrologia;24
+MOV;2024;11;Neurologia;42
+MOV;2024;11;Nutrição;65
+MOV;2024;11;Oftamologia;19
+MOV;2024;11;Pediatria;64
+MOV;2024;11;Psicologia;74
+MOV;2024;11;Psiquiatria;29
+MOV;2024;11;Serviço Social;52
+MOV;2024;12;Anestesiologia;70
+MOV;2024;12;Banco de Leite;262
+MOV;2024;12;Cardiologia;85
+MOV;2024;12;Endocrinologia e Metabologia;73
+MOV;2024;12;Enfermagem;7
+MOV;2024;12;Fisioterapia;14
+MOV;2024;12;Fonoaudilogia;30
+MOV;2024;12;Ginecologia e Obstetrícia;904
+MOV;2024;12;Mastologia;151
+MOV;2024;12;Nefrologia;13
+MOV;2024;12;Neurologia;35
+MOV;2024;12;Nutrição;62
+MOV;2024;12;Oftamologia;15
+MOV;2024;12;Pediatria;74
+MOV;2024;12;Psicologia;89
+MOV;2024;12;Psicólogo;5
+MOV;2024;12;Psiquiatria;34
+MOV;2024;12;Serviço Social;52
 MOV;2025;1;Banco de Leite;385
 MOV;2025;1;Cardiologia;73
 MOV;2025;1;Endocrinologia e Metabologia;64
@@ -859,7 +1694,7 @@ MOV;2025;8;Endocrinologia e Metabologia;94
 MOV;2025;8;Enfermagem;14
 MOV;2025;8;Fisioterapia;44
 MOV;2025;8;Fonoaudilogia;24
-MOV;2025;8;Ginecologia e Obstetrícia;972
+MOV;2025;8;Ginecologia e Obstetrícia;973
 MOV;2025;8;Mastologia;25
 MOV;2025;8;Nefrologia;20
 MOV;2025;8;Neurologia;39
@@ -922,3 +1757,21 @@ MOV;2025;11;Pediatria;83
 MOV;2025;11;Psicologia;52
 MOV;2025;11;Psiquiatria;35
 MOV;2025;11;Serviço Social;54
+MOV;2025;12;Anestesiologia;27
+MOV;2025;12;Banco de Leite;317
+MOV;2025;12;Cardiologia;101
+MOV;2025;12;Endocrinologia e Metabologia;84
+MOV;2025;12;Enfermagem;11
+MOV;2025;12;Fisioterapia;91
+MOV;2025;12;Fonoaudilogia;41
+MOV;2025;12;Fonoaudiologia;3
+MOV;2025;12;Ginecologia e Obstetrícia;835
+MOV;2025;12;Mastologia;21
+MOV;2025;12;Nefrologia;13
+MOV;2025;12;Neurologia;47
+MOV;2025;12;Nutrição;32
+MOV;2025;12;Oftamologia;7
+MOV;2025;12;Pediatria;45
+MOV;2025;12;Psicologia;3
+MOV;2025;12;Psiquiatria;25
+MOV;2025;12;Serviço Social;43
